@@ -30,7 +30,7 @@ possible custom fields to include in describing issues in the project (flexible)
 - Size
 - Cross-component interaction
 
-# pushing issue to 'Soilwise Project Backlog' and further describing issue
+## pushing issue to 'Soilwise Project Backlog' and further describing issue
 - Status
 - WP
 - Startdate
@@ -47,57 +47,57 @@ A (cross-component) issue wanting to discuss during weekly sprint refinement mee
 [architectural design with components (D1.3)](https://ilvo.sharepoint.com/:w:/r/sites/HESoilWiseProject/Gedeelde%20documenten/General/Deliverables/WP1-ISRIC/Deliverable%201.3%20Repository%20Architecture/Deliverable%20D1.3%20Repository%20architecture.docx?d=w79c5891907de4ab9bb02c89c4e142560&csf=1&web=1&e=bfKc2i)
 
 **Manual Ingestion**
-lead: WE
-contributors: Paul, MU
+- lead: WE
+- contributors: Paul, MU
 
 **Data export, download**
-lead: WE
-contributors: Paul, MU, CREA
+- lead: WE
+- contributors: Paul, MU, CREA
 
 **Hale Studio**
-lead: WE
-contributors: Paul, MU, CREA
+- lead: WE
+- contributors: Paul, MU, CREA
 
 **Usage system & Monitoring**
-lead: WE
-contributors: Paul
+- lead: WE
+- contributors: Paul
 
 **SWR Harvester**
-lead: Paul, Cenk
-contributors: Rob & team, Nick
+- lead: Paul, Cenk
+- contributors: Rob & team, Nick
 
 **Ingestion Validation**
-lead: MU
-contributors: Paul, Thorsten, Cenk
+- lead: MU
+- contributors: Paul, Thorsten, Cenk
 
 **Metadata & Data & Knowledge Validation**
 partially a research objective
-lead: Anna + PhD
-contributors: MU, Hugo, WE
+- lead: Anna + PhD
+- contributors: MU, Hugo, WE
 
 **PyCSW**
-lead: Paul
-contributors: MU, Nick
+- lead: Paul
+- contributors: MU, Nick
 
 **Map Server**
-lead: Paul
-contributors: MU
+- lead: Paul
+- contributors: MU
 
 **Interlinker**
-lead: Rob & team, Anna
-contributors: Nick
+- lead: Rob & team, Anna
+- contributors: Nick
 
 **GIT**
-lead:
-contributors:
+- lead:
+- contributors:
 
 **PostgreSQL**
-lead:
-contributors:
+- lead:
+- contributors:
 
 **Triple Store**
-lead: Rob & team, Anna
-contributors: Nick
+- lead: Rob & team, Anna
+- contributors: Nick
 
 
 
