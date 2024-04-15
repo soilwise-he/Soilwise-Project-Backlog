@@ -23,7 +23,7 @@ Issues are found and grouped within a specific repository, they can be selected 
 https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
 
 A new repository can be created by: 
-- first selecting the "repository" icon in the top bar
+- first selecting the "Repositories" icon in the top bar
 - then selecting the green button "New repository" in upper right corner
 
 ![create_repo_1.png](create_repo_1.png)
@@ -47,8 +47,11 @@ In addition, in the same README.md document provide information about the techni
 ## creating issue (representing a task or requirement)
 https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue
 
+**Keep tasks/issues small**: 
+_"High granularity helps to see and feel the progress, not only by the developer but also by the product owner. Smaller tasks are also easier to comprehend, and estimate and result in smaller chunks of code that cover task requirements. Resultant code in turn is often easier to test, refactor, review and integrate."_ 
+
 A new issue for a specific repository can be created by: 
-- selecting the "issue" icon in the upper bar of the specific repository
+- selecting the "Issues" icon in the upper bar of the specific repository
 
 ![create_issue_1.png](create_issue_1.png)
 
@@ -66,13 +69,44 @@ A new issue for a specific repository can be created by:
 
 ## creating discussion
 
+https://docs.github.com/en/discussions/quickstart
+
+(further documentation when we start using it)
+
 ## creating project
 
-## describing issues in project with custom fields:
-possible custom fields to include in describing issues in the project (flexible)
-- Priority (ordering of issues in project) 
-- Size
-- Cross-component interaction
+https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project
+
+A new project can be created by: 
+- first selecting the "Projects" icon in the top bar
+- then selecting the green button "New project" in upper right corner
+
+![create_project_1.png](create_project_1.png)
+
+You can then start from a template, select "Featured" and e.g. Kanban
+Or you can start from scratch
+
+![create_project_2.png](create_project_2.png)
+
+Provide a descriptive name to the project and hit the green button "Create project" in the bottom right corner
+
+![create_project_3.png](create_project_3.png)
+
+The project can then be further configured via selecting settings in the upper left "..." icon
+
+![create_project_4.png](create_project_4.png)
+
+A description can be provided as wel as certain labels ([how to manage labels](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)) to follow up in monitoring, e.g. tasks can be filterd in the kanban board via added labels
+Possible custom fields to include in describing issues in the project are
+- Status
+- Size estimation
+- WP
+
+![create_project_5.png](create_project_5.png)
+
+!! Do not use a priority label, the Copmonent or WP leads will rank the tasks/issues from highest priority to lowest priority, the ranking of the tasks/issues represent the priority ranking
+
+
 
 ## pushing issue to 'Soilwise Project Backlog' and further describing issue
 - Status 
