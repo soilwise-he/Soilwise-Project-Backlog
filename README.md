@@ -4,21 +4,65 @@ This README file contains a guideline for using this github soilwise-he reposito
 
 work in progress!!
 
-any questions or comments related to this documentation, please provide as 'issue' and it will be looked at and integrated into documentation
+Any questions or comments related to this documentation, please provide as 'issue' and it will be looked at and integrated into documentation
 
 
 ## 4 aspects to be used for backlog
-- _Repository_: contains issues and discussions, one or more repositories per technical component (pragmatic approach)
+- _Repository_: contains issues, one or more repositories per technical component (pragmatic approach)
 - _Issue_ (within repository): use as measurable task/ticket to breakdown requirement, preferably with acceptance criteria
-- _Discussion_ (within repository): more a concept/ an aspect that has to be discussed for future development; when becoming more scoped/tangible, set up new issue and refer to discussion to keep issue (ticket) clean
+- _Discussion_: more a concept/ an aspect that has to be discussed for future development; when becoming more scoped/tangible, set up new issue and refer to discussion to keep issue (ticket) clean
 - _Project_: monitor and plan tasks a development team is working on in view of a technical component
 
+Repositories, discussions and projects can be selected from their specific icons in the top bar of the soilwise-he repository: 
+![repositories_etc.png](repositories_etc.png)
+
+Issues are found and grouped within a specific repository, they can be selected from the "issue" icon in the top bar of a repository:
+![issues.png](issues.png)
+
 ## creating repository
+https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
+
+A new repository can be created by: 
+- first selecting the "repository" icon in the top bar
+- then selecting the green button "New repository" in upper right corner
+
+![create_repo_1.png](create_repo_1.png)
+
+- in the next panel:
+  - add a name for the repository related to the technical(sub)component being developed
+  - provide a description
+  - select public status
+  - check box "add a README file"
+  - select a license 'e.g. MIT License"'
+
+![create_repo_2.png](create_repo_2.png)
+
 
 ## identifying technical components and GA project-tasks related to repository
-- in titel, readme, ... ?
+Start the README.md document by providing labels for the technical component and tasks related to this document, e.g. INTERLINKER - T2.3 & 3.3 
+(other option could be adding tasks in repository name?, immediately visible in the soilwise-he repository).
 
-## creating issue
+In addition, in the same README.md document provide information about the technical (sub)component being developed in this repository, e.g. scope, functionality, ...
+
+## creating issue (representing a task or requirement)
+https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue
+
+A new issue for a specific repository can be created by: 
+- selecting the "issue" icon in the upper bar of the specific repository
+
+![create_issue_1.png](create_issue_1.png)
+
+-  selecting the green button "New issue" in upper right corner
+
+![create_issue_2.png](create_issue_2.png)
+
+- in the next panel:
+  - add a title
+  - add a description for the task that has to be handled/developed  
+  - if wanted, on the right select an assignees, add labels ([configure labels for repository](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)) or group in a certain project (project already has to exist) for monitoring and planning the task in the development team
+  - when ready select "submit new issue" button in lower right-hand corner
+
+![create_issue_3.png](create_issue_3.png)
 
 ## creating discussion
 
@@ -31,7 +75,7 @@ possible custom fields to include in describing issues in the project (flexible)
 - Cross-component interaction
 
 ## pushing issue to 'Soilwise Project Backlog' and further describing issue
-- Status
+- Status 
 - WP
 - Startdate
 - Enddate
