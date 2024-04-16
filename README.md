@@ -49,10 +49,13 @@ A new repository can be created by:
 <br />
 
 ## 2.2. Identifying technical components and GA project-tasks related to a repository
-Start the README.md document by providing labels for the technical component and tasks related to this document, e.g. INTERLINKER - T2.3 & 3.3 
-A list of the technical components can be found at the end of this document in section "10. Components, leads + collaborations"
+Start the README.md document by providing labels for the technical component and tasks related to this document, e.g. INTERLINKER - T2.3 & 3.3.<br />
+A list of the technical components can be found at the end of this document in section "10. Components, leads + collaborations".
+<br />
+<br />
 (_an other option could be adding GA project-tasks in the repository name?, immediately visible in the soilwise-he repository_).
-
+<br />
+<br />
 In addition, in the same README.md document provide information about the technical (sub)component being developed in this repository, e.g. scope, functionality, ...
 ***
 <br />
@@ -64,7 +67,8 @@ https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-iss
 
 **Keep tasks/issues small**: 
 _"High granularity helps to see and feel the progress, not only by the developer but also by the product owner. Smaller tasks are also easier to comprehend, and estimate and result in smaller chunks of code that cover task requirements. Resultant code in turn is often easier to test, refactor, review and integrate."_ 
-
+<br />
+<br />
 A new issue for a specific repository can be created by: 
 - selecting the "Issues" icon in the upper bar of the specific repository
 
@@ -107,16 +111,16 @@ A new project can be created by:
 
 ![create_project_1.png](create_project_1.png)
 
-You can then start from a template, select "Featured" and e.g. Kanban
-Or you can start from scratch
+You can then start from a template, select "Featured" and e.g. Kanban.
+Or you can start from scratch.
 
 ![create_project_2.png](create_project_2.png)
 
-Provide a descriptive name to the project and hit the green button "Create project" in the bottom right corner
+Provide a descriptive name to the project and hit the green button "Create project" in the bottom right corner.
 
 ![create_project_3.png](create_project_3.png)
 
-The project can then be further configured via selecting settings in the upper left "..." icon
+The project can then be further configured via selecting settings in the upper left "..." icon.
 
 ![create_project_4.png](create_project_4.png)
 
@@ -169,10 +173,10 @@ A last step consists of adding information to the issue in the "Soilwise Project
 <br />
 
 ## 7. Sprint refinement meetings
-This is a weekly scrum of scrums with component leads and WP leads held on thursday afternoon.
-A cross-component issue having to be discussed during this weekly sprint refinement meeting has to be pushed to the " Soilwise Sprint refinement" project.
-This can be done in a similar way as described in "6. Pushing issue to 'Soilwise Project Backlog' and further describing issue"
-After pushing the issue/task to the "Soilwise Sprint Refinement" go to the project and move the issue to the "To Discuss" column in the Kanban board
+This is a weekly scrum of scrums with component leads and WP leads held on thursday afternoon.<br />
+A cross-component issue having to be discussed during this weekly sprint refinement meeting has to be pushed to the " Soilwise Sprint refinement" project.<br />
+This can be done in a similar way as described in "6. Pushing issue to 'Soilwise Project Backlog' and further describing issue".<br />
+After pushing the issue/task to the "Soilwise Sprint Refinement" go to the project and move the issue to the "To Discuss" column in the Kanban board.
 
 ![push_issue_to_refinement.png](push_issue_to_refinement.png)
 
