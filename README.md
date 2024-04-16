@@ -26,7 +26,7 @@ Issues are found and grouped within a specific repository, they can be selected 
 
 
 
-## 2.1.Creating a new repository
+## 2.1. Creating a new repository
 https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
 
 A new repository can be created by: 
@@ -48,9 +48,10 @@ A new repository can be created by:
 <br />
 <br />
 
-## 2.2. Identifying technical components and GA project-tasks related to repository
+## 2.2. Identifying technical components and GA project-tasks related to a repository
 Start the README.md document by providing labels for the technical component and tasks related to this document, e.g. INTERLINKER - T2.3 & 3.3 
-(other option could be adding tasks in repository name?, immediately visible in the soilwise-he repository).
+A list of the technical components can be found at the end of this document in section "10. Components, leads + collaborations"
+(_an other option could be adding GA project-tasks in the repository name?, immediately visible in the soilwise-he repository_).
 
 In addition, in the same README.md document provide information about the technical (sub)component being developed in this repository, e.g. scope, functionality, ...
 ***
@@ -133,7 +134,7 @@ Possible custom fields to include in describing issues in the project are
 <br />
 <br />
 
-## 6. Pushing an issue to 'Soilwise Project Backlog' and further describing issue
+## 6. Pushing an issue to the 'Soilwise Project Backlog' and further describing the issue
 It is important that all **"larger"** issues/tasks (**more than 3-days development work**) are pushed to the 'Soilwise Project Backlog'.
 This is done by:
 - selecting the issue in the repository, 
@@ -200,7 +201,7 @@ TBD
 ## 10. Components, leads + collaborations
 [architectural design with components (D1.3)](https://ilvo.sharepoint.com/:w:/r/sites/HESoilWiseProject/Gedeelde%20documenten/General/Deliverables/WP1-ISRIC/Deliverable%201.3%20Repository%20Architecture/Deliverable%20D1.3%20Repository%20architecture.docx?d=w79c5891907de4ab9bb02c89c4e142560&csf=1&web=1&e=bfKc2i)
 
-**Manual Ingestion**
+**Metadata authoring**
 - lead: WE
 - contributors: Paul, MU
 
@@ -224,7 +225,7 @@ TBD
 
 <br />
 
-**SWR Harvester**
+**Harvester**
 - lead: Paul, Cenk
 - contributors: Rob & team, Nick
 
@@ -275,6 +276,12 @@ partially a research objective
 
 **Triple Store**
 - lead: Rob & team, Anna
+- contributors: Nick
+
+<br />
+
+**Large-language-model**
+- lead: Rob & team
 - contributors: Nick
 
 <br />
