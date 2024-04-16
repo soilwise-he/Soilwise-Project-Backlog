@@ -26,7 +26,7 @@ Issues are found and grouped within a specific repository, they can be selected 
 
 
 
-## 2.1.Creating repository
+## 2.1.Creating a new repository
 https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
 
 A new repository can be created by: 
@@ -58,7 +58,7 @@ In addition, in the same README.md document provide information about the techni
 <br />
 <br />
 
-## 3. Creating issue (representing a task or requirement)
+## 3. Creating a new issue (representing a task or requirement)
 https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue
 
 **Keep tasks/issues small**: 
@@ -86,17 +86,17 @@ A new issue for a specific repository can be created by:
 <br />
 <br />
 
-## 4. Creating discussion
+## 4. Creating a new discussion
 
 https://docs.github.com/en/discussions/quickstart
-
+TBD
 (further documentation when we start using it)
 ***
 <br />
 <br />
 <br />
 
-## 5 Creating project
+## 5 Creating a new project
 
 https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project
 
@@ -133,7 +133,7 @@ Possible custom fields to include in describing issues in the project are
 <br />
 <br />
 
-## 6. Pushing issue to 'Soilwise Project Backlog' and further describing issue
+## 6. Pushing an issue to 'Soilwise Project Backlog' and further describing issue
 It is important that all **"larger"** issues/tasks (**more than 3-days development work**) are pushed to the 'Soilwise Project Backlog'.
 This is done by:
 - selecting the issue in the repository, 
