@@ -7,7 +7,7 @@ work in progress!!
 Any questions or comments related to this documentation, please provide as 'issue' and it will be looked at and integrated into documentation
 
 
-## 4 aspects to be used for backlog
+## 1. Four aspects to be used for backlog
 - _Repository_: contains issues, one or more repositories per technical component (pragmatic approach)
 - _Issue_ (within repository): use as measurable task/ticket to breakdown requirement, preferably with acceptance criteria
 - _Discussion_: more a concept/ an aspect that has to be discussed for future development; when becoming more scoped/tangible, set up new issue and refer to discussion to keep issue (ticket) clean
@@ -17,9 +17,16 @@ Repositories, discussions and projects can be selected from their specific icons
 ![repositories_etc.png](repositories_etc.png)
 
 Issues are found and grouped within a specific repository, they can be selected from the "issue" icon in the top bar of a repository:
-![issues.png](issues.png)
+![issues.png](issues.png)  
+***
+  
 
-## creating repository
+<br />
+<br />
+
+
+
+## 2.1.Creating repository
 https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
 
 A new repository can be created by: 
@@ -36,15 +43,22 @@ A new repository can be created by:
   - select a license 'e.g. MIT License"'
 
 ![create_repo_2.png](create_repo_2.png)
+***
+<br />
+<br />
+<br />
 
-
-## identifying technical components and GA project-tasks related to repository
+## 2.2. Identifying technical components and GA project-tasks related to repository
 Start the README.md document by providing labels for the technical component and tasks related to this document, e.g. INTERLINKER - T2.3 & 3.3 
 (other option could be adding tasks in repository name?, immediately visible in the soilwise-he repository).
 
 In addition, in the same README.md document provide information about the technical (sub)component being developed in this repository, e.g. scope, functionality, ...
+***
+<br />
+<br />
+<br />
 
-## creating issue (representing a task or requirement)
+## 3. Creating issue (representing a task or requirement)
 https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue
 
 **Keep tasks/issues small**: 
@@ -61,19 +75,28 @@ A new issue for a specific repository can be created by:
 
 - in the next panel:
   - add a title
-  - add a description for the task that has to be handled/developed  
+  - add a clear and concise description for the task that has to be handled/developed, consider adding specific aspects about the problem, scope, objective, dependencies, resources
+  - > It is important to also add one or more acceptance criteria or a definition of done for each task in the description
   - if wanted, on the right select an assignees, add labels ([configure labels for repository](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)) or group in a certain project (project already has to exist) for monitoring and planning the task in the development team
   - when ready select "submit new issue" button in lower right-hand corner
 
 ![create_issue_3.png](create_issue_3.png)
+***
+<br />
+<br />
+<br />
 
-## creating discussion
+## 4. Creating discussion
 
 https://docs.github.com/en/discussions/quickstart
 
 (further documentation when we start using it)
+***
+<br />
+<br />
+<br />
 
-## creating project
+## 5 Creating project
 
 https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project
 
@@ -104,78 +127,156 @@ Possible custom fields to include in describing issues in the project are
 
 ![create_project_5.png](create_project_5.png)
 
-!! Do not use a priority label, the Copmonent or WP leads will rank the tasks/issues from highest priority to lowest priority, the ranking of the tasks/issues represent the priority ranking
+> Do not use a priority label, the Component or WP leads will rank the tasks/issues from highest priority to lowest priority, the ranking of the tasks/issues represent the priority ranking.
+***
+<br />
+<br />
+<br />
+
+## 6. Pushing issue to 'Soilwise Project Backlog' and further describing issue
+It is important that all **"larger"** issues/tasks (**more than 3-days development work**) are pushed to the 'Soilwise Project Backlog'.
+This is done by:
+- selecting the issue in the repository, 
+- in the right border select the 'Projects' bar
+- select the "Soilwise Project Backlog"
+
+![push_issue_to_backlog.png](push_issue_to_backlog.png)
+
+The "Soilwise Project Backlog" can now also be found in the list of projects
+
+![push_issue_to_backlog_1.png](push_issue_to_backlog_1.png)
+
+A last step consists of adding information to the issue in the "Soilwise Project Backlog":
+- go to the "Soilwise Project Backlog" via the "Projects" icon in the upper bar
+- select the "Soilwise Project Backlog"
+- select the specific issue
+- a window will appear with information logged to the issue
+- in the right panel under "Projects" add information relates to 
+  - Status (Todo, In Progress, QA or Done, this can also be done by moving the issue to a certain column in the Kanban board)
+  - WP (WP2, WP3 or WP4)
+  - interaction (interaction needed (= interaction is needed with another team/component), no interaction)
+  - Startdate
+  - Enddate
+
+![push_issue_to_backlog_2.png](push_issue_to_backlog_2.png)
+
+> There is **no inheritance for issues over multiple projects**, this implies status and additional information about an issue/task must also be updated in the "Soilwise Project Backlog" project!!
+
+***
+<br />
+<br />
+<br />
+
+## 7. Sprint refinement meetings
+This is a weekly scrum of scrums with component leads and WP leads held on thursday afternoon.
+A cross-component issue having to be discussed during this weekly sprint refinement meeting has to be pushed to the " Soilwise Sprint refinement" project.
+This can be done in a similar way as described in "6. Pushing issue to 'Soilwise Project Backlog' and further describing issue"
+After pushing the issue/task to the "Soilwise Sprint Refinement" go to the project and move the issue to the "To Discuss" column in the Kanban board
+
+![push_issue_to_refinement.png](push_issue_to_refinement.png)
+
+***
+<br />
+<br />
+<br />
 
 
+## 8. Sprint planning
+TBD
 
-## pushing issue to 'Soilwise Project Backlog' and further describing issue
-- Status 
-- WP
-- Startdate
-- Enddate
+***
+<br />
+<br />
+<br />
 
+## 9. Sprint retrospective
+TBD
 
-## sprint refinement meetings
-Weekly scrum of scrums with component leads and WP leads held on thursday afternoon.
-A (cross-component) issue wanting to discuss during weekly sprint refinement meeting has to be mentioned to Nick a day in advance
-(how, mail or via Git?)
+***
+<br />
+<br />
+<br />
 
-
-## components, leads + collaborations
+## 10. Components, leads + collaborations
 [architectural design with components (D1.3)](https://ilvo.sharepoint.com/:w:/r/sites/HESoilWiseProject/Gedeelde%20documenten/General/Deliverables/WP1-ISRIC/Deliverable%201.3%20Repository%20Architecture/Deliverable%20D1.3%20Repository%20architecture.docx?d=w79c5891907de4ab9bb02c89c4e142560&csf=1&web=1&e=bfKc2i)
 
 **Manual Ingestion**
 - lead: WE
 - contributors: Paul, MU
 
+<br />
+
 **Data export, download**
 - lead: WE
 - contributors: Paul, MU, CREA
+
+<br />
 
 **Hale Studio**
 - lead: WE
 - contributors: Paul, MU, CREA
 
+<br />
+
 **Usage system & Monitoring**
 - lead: WE
 - contributors: Paul
+
+<br />
 
 **SWR Harvester**
 - lead: Paul, Cenk
 - contributors: Rob & team, Nick
 
+<br />
+
 **Ingestion Validation**
 - lead: MU
 - contributors: Paul, Thorsten, Cenk
+
+<br />
 
 **Metadata & Data & Knowledge Validation**
 partially a research objective
 - lead: Anna + PhD
 - contributors: MU, Hugo, WE
 
+<br />
+
 **PyCSW**
 - lead: Paul
 - contributors: MU, Nick
+
+<br />
 
 **Map Server**
 - lead: Paul
 - contributors: MU
 
+<br />
+
 **Interlinker**
 - lead: Rob & team, Anna
 - contributors: Nick
+
+<br />
 
 **GIT**
 - lead:
 - contributors:
 
+<br />
+
 **PostgreSQL**
 - lead:
 - contributors:
+
+<br />
 
 **Triple Store**
 - lead: Rob & team, Anna
 - contributors: Nick
 
+<br />
 
 
