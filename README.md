@@ -1,5 +1,5 @@
 # Soilwise-Project-Backlog
-This README file contains a guideline for using this github soilwise-he repository as a backlog for the Soilwise project
+This README file contains a guideline for using this GitHub soilwise-he repository as a backlog for the Soilwise project
 [slides](https://ilvo.sharepoint.com/:p:/s/HESoilWiseProject/ERdMVUvKJaBCjgxdng7UcoYBISZXlAl7E4_2RQnczMzC1Q?e=17lm7D)
 
 work in progress!!
@@ -94,8 +94,17 @@ A new issue for a specific repository can be created by:
 ## 4. Creating a new discussion
 
 https://docs.github.com/en/discussions/quickstart
+
 TBD
 (further documentation when we start using it)
+
+There are multiple categories that can be started as discussion:
+![create_discussion_1.png](create_discussion_1.png)
+
+Select for instance "Ideas" and provide a title and content to the discussion you want to start with the community.
+When ready, select the green button "Start discussion" in the lower right corner.
+![create_discussion_2.png](create_discussion_2.png)
+
 ***
 <br />
 <br />
@@ -132,7 +141,7 @@ Possible custom fields to include in describing issues in the project are
 
 ![create_project_5.png](create_project_5.png)
 
-> Do not use a priority label, the Component or WP leads will rank the tasks/issues from highest priority to lowest priority, the ranking of the tasks/issues represent the priority ranking.
+> Do not use a priority label, the Component or WP leads will rank the tasks/issues from the highest priority to the lowest priority, the ranking of the tasks/issues represent the priority ranking.
 ***
 <br />
 <br />
