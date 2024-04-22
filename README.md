@@ -189,16 +189,7 @@ After pushing the issue/task to the "Soilwise Sprint Refinement" go to the proje
 
 ![push_issue_to_refinement.png](push_issue_to_refinement.png)
 
-- first stage:
-  - “major” sprint planning with WP & TC leads -> define high-level/larger requirements (issues) to be dealt with in coming month
-  - list issues in Soilwise-Project-Backlog 
-  - deadline first sprint planning: 26/04
-- second stage:
-  - “micro” sprint planning per development team/technical component
-  - refine issues in Soilwise-Project-Backlog to smaller/specific tasks the developers will work on in coming month
-  - list issues in projects for specific technical component
-  - push "major" issues to Soilwise-Project-Backlog
-
+-
 ***
 <br />
 <br />
@@ -206,10 +197,23 @@ After pushing the issue/task to the "Soilwise Sprint Refinement" go to the proje
 
 
 ## 8. Sprint planning
-TBD
+TBD - we are still experimenting in finding a workable approach.  
 
-currnet approach:
-![img.png](img.png)
+Currnet approach:
+
+First stage:
+  - “major” sprint planning with WP & TC leads -> define high-level/larger requirements (issues) to be dealt with in coming month
+  - list issues in Soilwise-Project-Backlog 
+  - deadline first sprint planning: 26/04
+<br />
+<br />
+
+Second stage:
+  - “micro” sprint planning per development team/technical component
+  - refine issues in Soilwise-Project-Backlog to smaller/specific tasks the developers will work on in coming month
+  - list issues in projects for specific technical component
+  - push "major" issues to Soilwise-Project-Backlog
+
 
 ***
 <br />
