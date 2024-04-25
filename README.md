@@ -261,16 +261,9 @@ TBD
 
 <br />
 
-**Ingestion Validation**
-- lead: MU
-- contributors: Paul, Thorsten, Cenk
-
-<br />
-
-**Metadata & Data & Knowledge Validation**
-partially a research objective
-- lead: Anna + PhD
-- contributors: MU, Hugo, WE
+**Metadata Validation**
+- lead: MU (first iteration) - MU/Anna + PhD (second iteration)
+- contributors: Paul, Thorsten, Cenk, Hugo, WE
 
 <br />
 
