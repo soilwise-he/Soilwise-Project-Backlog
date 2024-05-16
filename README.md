@@ -234,8 +234,10 @@ TBD
 **Metadata authoring**
 - lead: WE
 - contributors: Paul, MU
-- repository: none currently
-
+- repository:
+  - [Soil info hub](https://github.com/soilwise-he/soilinfohub)
+  - [mdme](https://github.com/osgeo/mdme)
+  
 <br />
 
 **Data export, download**
@@ -248,7 +250,7 @@ TBD
 **Hale Studio**
 - lead: WE
 - contributors: Paul, MU, CREA
-- repository: none currently
+- repository: [Hale studio](https://github.com/halestudio/hale)
 
 <br />
 
@@ -283,15 +285,17 @@ TBD
 **Map Server**
 - lead: Paul
 - contributors: MU
-- repository: none currently
+- repository: [MapServer](https://github.com/soilwise-he/MapServer)
 
 <br />
 
 **Interlinker**
 - lead: Rob & team, Anna
 - contributors: Nick
-- repository: [link-liveliness-assessment](https://github.com/soilwise-he/link-liveliness-assessment), [similarity-finder](https://github.com/soilwise-he/similarity-finder)
-
+- repository:
+  - [link-liveliness-assessment](https://github.com/soilwise-he/link-liveliness-assessment)
+  - [similarity-finder](https://github.com/soilwise-he/similarity-finder)
+   
 <br />
 
 **GIT**
@@ -311,7 +315,9 @@ TBD
 **Triple Store**
 - lead: Rob & team, Anna
 - contributors: Nick
-- repository: [triplestore-virtuoso](https://github.com/soilwise-he/triplestore-virtuoso), [soilwise-ontology](https://github.com/soilwise-he/soilwise-ontology)
+- repository:
+  - [triplestore-virtuoso](https://github.com/soilwise-he/triplestore-virtuoso)
+  - [soilwise-ontology](https://github.com/soilwise-he/soilwise-ontology)
 
 <br />
 
@@ -322,23 +328,26 @@ TBD
 
 <br />
 
-technical repositories not directly linked to a technical component:  [dashboard](https://github.com/soilwise-he/dashboard), 
-[development-environment-and-infrastructure](https://github.com/soilwise-he/development-environment-and-infrastructure), 
-[governance](https://github.com/soilwise-he/governance)
+technical repositories not directly linked to a technical component:  
+  - [dashboard](https://github.com/soilwise-he/dashboard)
+  - [development-environment-and-infrastructure](https://github.com/soilwise-he/development-environment-and-infrastructure)
+  - [governance](https://github.com/soilwise-he/governance)
 
 <br />
 
 other repositories in the github environment linked to the project: 
-[SoilWise-documentation](https://github.com/soilwise-he/SoilWise-documentation), [soilwise-architecture](https://github.com/soilwise-he/soilwise-architecture), 
-[Soilwise-Project-Backlog](https://github.com/soilwise-he/Soilwise-Project-Backlog), [Soilwise-userstories](https://github.com/soilwise-he/Soilwise-userstories), 
-[Project-management](https://github.com/soilwise-he/Project-management)
+- [SoilWise-documentation](https://github.com/soilwise-he/SoilWise-documentation)
+- [soilwise-architecture](https://github.com/soilwise-he/soilwise-architecture) 
+- [Soilwise-Project-Backlog](https://github.com/soilwise-he/Soilwise-Project-Backlog)
+- [Soilwise-userstories](https://github.com/soilwise-he/Soilwise-userstories) 
+- [Project-management](https://github.com/soilwise-he/Project-management)
 
 <br />
 
 other repositories in the github environment as inspiration: 
-[soilinfohub](https://github.com/soilwise-he/soilinfohub), 
-[demo-zenodo-neo4j-llm-ilvo](https://github.com/soilwise-he/demo-zenodo-neo4j-llm-ilvo), 
-[inspire_soil_gpkg_template](https://github.com/soilwise-he/inspire_soil_gpkg_template)
+- [soilinfohub](https://github.com/soilwise-he/soilinfohub) 
+- [demo-zenodo-neo4j-llm-ilvo](https://github.com/soilwise-he/demo-zenodo-neo4j-llm-ilvo) 
+- [inspire_soil_gpkg_template](https://github.com/soilwise-he/inspire_soil_gpkg_template)
 
 
 
