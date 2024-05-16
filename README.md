@@ -299,16 +299,16 @@ TBD
 <br />
 
 **GIT**
-- lead:
-- contributors:
-- repository: none currently
+- lead: Nick
+- contributors: Paul
+- repository: [Soilwise repo](https://github.com/soilwise-he)
 
 <br />
 
 **PostgreSQL**
-- lead:
-- contributors:
-- repository: none currently
+- lead: WE
+- contributors: Paul
+- repository: [PostGreSQL](https://github.com/soilwise-he/PostGreSQL)
 
 <br />
 
