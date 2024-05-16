@@ -322,6 +322,12 @@ TBD
 
 <br />
 
+technical repositories not directly linked to a technical component:  [dashboard](https://github.com/soilwise-he/dashboard), 
+[development-environment-and-infrastructure](https://github.com/soilwise-he/development-environment-and-infrastructure), 
+[governance](https://github.com/soilwise-he/governance)
+
+<br />
+
 other repositories in the github environment linked to the project: 
 [SoilWise-documentation](https://github.com/soilwise-he/SoilWise-documentation), [soilwise-architecture](https://github.com/soilwise-he/soilwise-architecture), 
 [Soilwise-Project-Backlog](https://github.com/soilwise-he/Soilwise-Project-Backlog), [Soilwise-userstories](https://github.com/soilwise-he/Soilwise-userstories), 
