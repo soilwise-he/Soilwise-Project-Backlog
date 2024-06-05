@@ -349,7 +349,7 @@ other repositories in the github environment as inspiration:
 - [demo-zenodo-neo4j-llm-ilvo](https://github.com/soilwise-he/demo-zenodo-neo4j-llm-ilvo) 
 - [inspire_soil_gpkg_template](https://github.com/soilwise-he/inspire_soil_gpkg_template)
 
-- <br />
+<br />
 
 ## 11. JRC requirements
 original doc: https://ilvo.sharepoint.com/:w:/s/HESoilWiseProject/EZVzNSxFiyBDkCPUZxmYfhUBYptMqe_oJZtOhGY-FWva8g?e=aO2SHv
