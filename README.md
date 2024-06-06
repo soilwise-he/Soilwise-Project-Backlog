@@ -306,7 +306,7 @@ TBD
 <br />
 
 **PostgreSQL**
-- lead: WE
+- lead: Rob & team
 - contributors: Paul
 - repository: [PostGreSQL](https://github.com/soilwise-he/PostGreSQL)
 
