@@ -397,6 +397,8 @@ Connection to other (EUSO) applications/infrastructure via API’s
 **4. Data Management**
 - What databases and data storage solutions are in use? 
 - How is data backed up?
+- How are the data versioned? 
+- Do you follow some persistent identificiation scheme?
 - What is your data governance policy?
 
 **5. Cloud Services**
