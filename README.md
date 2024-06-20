@@ -396,8 +396,7 @@ Connection to other (EUSO) applications/infrastructure via API’s
 
 **4. Data Management**
 - What databases and data storage solutions are in use? 
-- How is data backed up? 
-- How do you handle data security and encryption? 
+- How is data backed up?
 - What is your data governance policy?
 
 **5. Cloud Services**
@@ -412,9 +411,8 @@ Connection to other (EUSO) applications/infrastructure via API’s
 - What is your testing and quality assurance process?
 
 **7. Vendor and Third-Party Services**
-- Which third-party services and vendors are critical to your operations? 
-- How do you manage vendor relationships and contracts? 
-- What third-party (or self-developed)  integrations/services related to the SWR 10 components are already in place?
+- Which third-party services and vendors are critical to your operations?
+- What third-party (or self-developed) integrations/services related to the SWR 10 components are already in place?
   - Metadata authoring:
   - Hale-studio/connect (data export/download and transformation):
   - Monitoring:
@@ -428,8 +426,7 @@ Connection to other (EUSO) applications/infrastructure via API’s
 
 **8. Performance and Scalability**
 - What are your key performance metrics and SLAs? 
-- How do you ensure scalability of your infrastructure? 
-- What load balancing and performance optimization techniques are used?
+- How do you ensure scalability of your infrastructure?
 
 <br />
 <br />
