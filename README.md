@@ -264,7 +264,9 @@ TBD
 **Harvester**
 - lead: Paul, Cenk
 - contributors: Rob & team, Nick
-- repository:[harvesters](https://github.com/soilwise-he/harvesters)
+- repository:
+  - [harvesters](https://github.com/soilwise-he/harvesters)
+  - [metadata-augmentation](https://github.com/soilwise-he/metadata-augmentation)
 
 <br />
 
@@ -318,6 +320,7 @@ TBD
 - repository:
   - [triplestore-virtuoso](https://github.com/soilwise-he/triplestore-virtuoso)
   - [soilwise-ontology](https://github.com/soilwise-he/soilwise-ontology)
+  - [soil-health-knowledge-graph](https://github.com/soilwise-he/soil-health-knowledge-graph)
 
 <br />
 
@@ -325,6 +328,7 @@ TBD
 - lead: Rob & team
 - contributors: Nick
 - repository: [natural-language-querying](https://github.com/soilwise-he/natural-language-querying)
+  
 
 <br />
 
