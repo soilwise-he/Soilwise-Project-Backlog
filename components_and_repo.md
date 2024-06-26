@@ -89,6 +89,7 @@
 - repository:
   - [triplestore-virtuoso](https://github.com/soilwise-he/triplestore-virtuoso)
   - [soilwise-ontology](https://github.com/soilwise-he/soilwise-ontology)
+  - [soil-health-kowledge-graph](https://github.com/soilwise-he/soil-health-knowledge-graph)
 
 <br />
 
@@ -100,24 +101,25 @@
 <br />
 
 technical repositories not directly linked to a technical component:  
-  - [dashboard](https://github.com/soilwise-he/dashboard)
-  - [development-environment-and-infrastructure](https://github.com/soilwise-he/development-environment-and-infrastructure)
-  - [governance](https://github.com/soilwise-he/governance)
+  - [dashboard](https://github.com/soilwise-he/dashboard): only for interaction with stakeholders, SWR intended to integrate in [EUSO Dashboard](https://esdac.jrc.ec.europa.eu/esdacviewer/euso-dashboard/)
+  - [development-environment-and-infrastructure](https://github.com/soilwise-he/development-environment-and-infrastructure): not a technical component, but repository related to WE infrastructure that will be used for SWR (mainly from 2nd iteration and further)
+  - [governance](https://github.com/soilwise-he/governance): several issues about governance related to SWR
+  - [Soilwise-credentials](): repository containing credentials, logins, passwords used for multiple technical components in SWR; [Gopass](https://github.com/gopasspw/gopass) technology used to manage this
 
 <br />
 
 other repositories in the github environment linked to the project: 
-- [SoilWise-documentation](https://github.com/soilwise-he/SoilWise-documentation)
-- [soilwise-architecture](https://github.com/soilwise-he/soilwise-architecture) 
-- [Soilwise-Project-Backlog](https://github.com/soilwise-he/Soilwise-Project-Backlog)
-- [Soilwise-userstories](https://github.com/soilwise-he/Soilwise-userstories) 
-- [Project-management](https://github.com/soilwise-he/Project-management)
+- [SoilWise-documentation](https://github.com/soilwise-he/SoilWise-documentation): documentation on SWR (Technical components, API's, Infrastructure, Glossary; released for D1.3)
+- [soilwise-architecture](https://github.com/soilwise-he/soilwise-architecture): documentation about architecture (Archimate model)
+- [Soilwise-Project-Backlog](https://github.com/soilwise-he/Soilwise-Project-Backlog): this reposoitory, contains guidelines for the GitHub soilwise-he repositories and the related backlog for the Soilwise project
+- [Soilwise-userstories](https://github.com/soilwise-he/Soilwise-userstories): repository to steer the functional requirements of the system, using a user story approach
+- [Project-management](https://github.com/soilwise-he/Project-management): repository for project management
 
 <br />
 
 other repositories in the github environment as inspiration: 
-- [soilinfohub](https://github.com/soilwise-he/soilinfohub) 
-- [demo-zenodo-neo4j-llm-ilvo](https://github.com/soilwise-he/demo-zenodo-neo4j-llm-ilvo) 
-- [inspire_soil_gpkg_template](https://github.com/soilwise-he/inspire_soil_gpkg_template)
+- [soilinfohub](https://github.com/soilwise-he/soilinfohub): repository forked from [EJP Soil Datahub](https://github.com/ejpsoil/ejpsoildatahub), a participative effort to collect and maintain a series of descriptions of soil datasets (metadata) in the EU to facilitate discovery of these resources
+- [demo-zenodo-neo4j-llm-ilvo](https://github.com/soilwise-he/demo-zenodo-neo4j-llm-ilvo): demo by ILVO with harvesting Zenodo, ETL to NEO4J graph database and integrated with LLM for search functionality, using Neo4J datascience algorithms for ranking or identifying duplicate datasources
+- [inspire_soil_gpkg_template](https://github.com/soilwise-he/inspire_soil_gpkg_template): repository hosting the design of a template for a relational database to capture soil data according to the INSPIRE soil data model
 
 <br />
