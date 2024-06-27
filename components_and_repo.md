@@ -3,7 +3,7 @@
 [architectural design with components (D1.3)](https://ilvo.sharepoint.com/:w:/r/sites/HESoilWiseProject/Gedeelde%20documenten/General/Deliverables/WP1-ISRIC/Deliverable%201.3%20Repository%20Architecture/Deliverable%20D1.3%20Repository%20architecture.docx?d=w79c5891907de4ab9bb02c89c4e142560&csf=1&web=1&e=bfKc2i)
 
 **Metadata authoring**
-- lead: WE
+- lead: Paul ~WE~
 - contributors: Paul, MU
 - repository:
   - [Soil info hub](https://github.com/soilwise-he/soilinfohub)
