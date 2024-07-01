@@ -46,6 +46,13 @@
 
 <br />
 
+**Metadata augmentation**
+- lead: Paul
+- contributors:
+- repository:[metadata-augmentation](https://github.com/soilwise-he/metadata-augmentation)
+
+<br />
+
 **PyCSW**
 - lead: Paul
 - contributors: MU, Nick
