@@ -118,7 +118,7 @@ technical repositories not directly linked to a technical component:
 other repositories in the github environment linked to the project: 
 - [SoilWise-documentation](https://github.com/soilwise-he/SoilWise-documentation): documentation on SWR (Technical components, API's, Infrastructure, Glossary; released for D1.3)
 - [soilwise-architecture](https://github.com/soilwise-he/soilwise-architecture): documentation about architecture (Archimate model)
-- [Soilwise-Project-Backlog](https://github.com/soilwise-he/Soilwise-Project-Backlog): this reposoitory, contains guidelines for the GitHub soilwise-he repositories and the related backlog for the Soilwise project
+- [Soilwise-Sprint-Backlog](https://github.com/soilwise-he/Soilwise-Project-Backlog): this reposoitory, contains guidelines for the GitHub soilwise-he repositories and the related backlog for the Soilwise project
 - [Soilwise-userstories](https://github.com/soilwise-he/Soilwise-userstories): repository to steer the functional requirements of the system, using a user story approach
 - [Project-management](https://github.com/soilwise-he/Project-management): repository for project management
 
