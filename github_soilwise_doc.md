@@ -143,17 +143,17 @@ It is important that all **"larger"** issues/tasks (**more than 3-days developme
 This is done by:
 - selecting the issue in the repository, 
 - in the right border select the 'Projects' bar
-- select the "Soilwise Project Backlog"
+- select the "Soilwise Sprint Backlog"
 
 ![push_issue_to_backlog.png](push_issue_to_backlog.png)
 
-The "Soilwise Project Backlog" can now also be found in the list of projects
+The "Soilwise Sprint Backlog" can now also be found in the list of projects
 
 ![push_issue_to_backlog_1.png](push_issue_to_backlog_1.png)
 
-A last step consists of adding information to the issue in the "Soilwise Project Backlog":
-- go to the "Soilwise Project Backlog" via the "Projects" icon in the upper bar
-- select the "Soilwise Project Backlog"
+A last step consists of adding information to the issue in the "Soilwise Sprint Backlog":
+- go to the "Soilwise Sprint Backlog" via the "Projects" icon in the upper bar
+- select the "Soilwise Sprint Backlog"
 - select the specific issue
 - a window will appear with information logged to the issue
 - in the right panel under "Projects" add information relates to 
@@ -165,6 +165,6 @@ A last step consists of adding information to the issue in the "Soilwise Project
 
 ![push_issue_to_backlog_2.png](push_issue_to_backlog_2.png)
 
-> There is **no inheritance for issues over multiple projects**, this implies status and additional information about an issue/task must also be updated in the "Soilwise Project Backlog" project!!
+> There is **no inheritance for issues over multiple projects**, this implies status and additional information about an issue/task must also be updated in the "Soilwise Sprint Backlog" project!!
 
 ***
