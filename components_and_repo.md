@@ -2,61 +2,107 @@
 ## Components, leads, collaborations and related repositories
 [architectural design with components (D1.3)](https://ilvo.sharepoint.com/:w:/r/sites/HESoilWiseProject/Gedeelde%20documenten/General/Deliverables/WP1-ISRIC/Deliverable%201.3%20Repository%20Architecture/Deliverable%20D1.3%20Repository%20architecture.docx?d=w79c5891907de4ab9bb02c89c4e142560&csf=1&web=1&e=bfKc2i)
 
+
+**Harvester**
+- lead: Paul, Cenk
+- contributors: Rob & team, Nick
+- repository:[harvesters](https://github.com/soilwise-he/harvesters)
+- foreseen as part of prototype in 1st iteration ([doc](https://ilvo.sharepoint.com/:x:/s/HESoilWiseProject/EYNTlyXE-TBPmNjm2WHFUxYB-6EgFuCwNIXtsPhPyEzCdg?e=foOMgc))
+
+<br />
+
+**Catalogue**
+- lead: Paul
+- contributors: MU, Nick
+- repository: [pycsw](https://github.com/soilwise-he/pycsw)
+- most functionality foreseen as part of prototype in first iteration ([doc](https://ilvo.sharepoint.com/:x:/s/HESoilWiseProject/EYNTlyXE-TBPmNjm2WHFUxYB-6EgFuCwNIXtsPhPyEzCdg?e=foOMgc))
+
+<br />
+
+**Metadata Validation**
+- lead: MU (first iteration) - MU/Anna + PhD (second iteration)
+- contributors: Paul, Thorsten, Cenk, Hugo, WE, Vasilis
+- repository:
+  - [metadata-validator](https://github.com/soilwise-he/metadata-validator), 
+  - [live-link-assessment](https://github.com/soilwise-he/link-liveliness-assessment)
+- foreseen as part of prototype in first iteration ([doc](https://ilvo.sharepoint.com/:x:/s/HESoilWiseProject/EYNTlyXE-TBPmNjm2WHFUxYB-6EgFuCwNIXtsPhPyEzCdg?e=foOMgc))
+
+<br />
+
+**Transformation & Harmonization**
+- lead: WE
+- contributors: Paul, MU, CREA
+- repository: 
+  - [transformation-and-harmonization](https://github.com/soilwise-he/transformation-and-harmonization)
+  - [Hale studio](https://github.com/halestudio/hale)
+- foreseen as part of prototype in 1st iteration ([doc](https://ilvo.sharepoint.com/:x:/s/HESoilWiseProject/EYNTlyXE-TBPmNjm2WHFUxYB-6EgFuCwNIXtsPhPyEzCdg?e=foOMgc))
+
+<br />
+
+**Metadata augmentation**
+- lead: Paul
+- contributors: Beichen, Nick
+- repository:
+  - [metadata-augmentation](https://github.com/soilwise-he/metadata-augmentation), 
+  - [soil-health-knowledge-graph](https://github.com/soilwise-he/soil-health-knowledge-graph), 
+  - [similarity-finder](https://github.com/soilwise-he/similarity-finder)
+- some functionality foreseen as part of prototype in first iteration ([doc](https://ilvo.sharepoint.com/:x:/s/HESoilWiseProject/EYNTlyXE-TBPmNjm2WHFUxYB-6EgFuCwNIXtsPhPyEzCdg?e=foOMgc))
+
+<br />
+
+**Knowledge Graph**
+- most functionality foreseen as part of prototype in first iteration ([doc](https://ilvo.sharepoint.com/:x:/s/HESoilWiseProject/EYNTlyXE-TBPmNjm2WHFUxYB-6EgFuCwNIXtsPhPyEzCdg?e=foOMgc))
+- lead: Rob & team, Anna
+- contributors: Nick
+- repository:
+  - [triplestore-virtuoso](https://github.com/soilwise-he/triplestore-virtuoso)
+  - [soilwise-ontology](https://github.com/soilwise-he/soilwise-ontology)
+  - [soil-health-kowledge-graph](https://github.com/soilwise-he/soil-health-knowledge-graph)
+- not foreseen for 1st iteration ([doc](https://ilvo.sharepoint.com/:x:/s/HESoilWiseProject/EYNTlyXE-TBPmNjm2WHFUxYB-6EgFuCwNIXtsPhPyEzCdg?e=foOMgc))
+
+<br />
+
+**System Usage & Monitoring**
+- lead: WE
+- contributors: Paul
+- repository:[usage-statistics](https://github.com/soilwise-he/usage-statistics)
+- foreseen as part of prototype in 1st iteration ([doc](https://ilvo.sharepoint.com/:x:/s/HESoilWiseProject/EYNTlyXE-TBPmNjm2WHFUxYB-6EgFuCwNIXtsPhPyEzCdg?e=foOMgc))
+
+<br />
+
+**Storage**
+- lead: (WE-) Paul - Rob & team
+- contributors:
+- repository: 
+  - [PostGreSQL](https://github.com/soilwise-he/PostGreSQL)
+  - [triplestore-virtuoso](https://github.com/soilwise-he/triplestore-virtuoso)
+- most functionality foreseen as part of prototype in first iteration ([doc](https://ilvo.sharepoint.com/:x:/s/HESoilWiseProject/EYNTlyXE-TBPmNjm2WHFUxYB-6EgFuCwNIXtsPhPyEzCdg?e=foOMgc))
+
+<br />
+
+**Authorisation**
+- lead: WE
+- contributors: Paul
+- repository: [Soilwise repo](https://github.com/soilwise-he)
+- not foreseen for 1st iteration ([doc](https://ilvo.sharepoint.com/:x:/s/HESoilWiseProject/EYNTlyXE-TBPmNjm2WHFUxYB-6EgFuCwNIXtsPhPyEzCdg?e=foOMgc))
+
+<br />
+
 **Metadata authoring**
 - lead: Paul ~WE~
 - contributors: Paul, MU
 - repository:
   - [Soil info hub](https://github.com/soilwise-he/soilinfohub)
   - [mdme](https://github.com/osgeo/mdme)
+- not foreseen for 1st iteration ([doc](https://ilvo.sharepoint.com/:x:/s/HESoilWiseProject/EYNTlyXE-TBPmNjm2WHFUxYB-6EgFuCwNIXtsPhPyEzCdg?e=foOMgc))
   
 <br />
 
-**Data export, download**
-- lead: WE
-- contributors: Paul, MU, CREA
-- repository: [data-download](https://github.com/soilwise-he/data-download)
-
-<br />
-
-**Hale Studio**
-- lead: WE
-- contributors: Paul, MU, CREA
-- repository: [Hale studio](https://github.com/halestudio/hale)
-
-<br />
-
-**Usage system & Monitoring**
-- lead: WE
-- contributors: Paul
-- repository:[usage-statistics](https://github.com/soilwise-he/usage-statistics)
-
-<br />
-
-**Harvester**
-- lead: Paul, Cenk
-- contributors: Rob & team, Nick
-- repository:[harvesters](https://github.com/soilwise-he/harvesters)
-
-<br />
-
-**Metadata Validation**
-- lead: MU (first iteration) - MU/Anna + PhD (second iteration)
-- contributors: Paul, Thorsten, Cenk, Hugo, WE
-- repository:[metadata-validator](https://github.com/soilwise-he/metadata-validator)
-
-<br />
-
-**Metadata augmentation**
-- lead: Paul
-- contributors:
-- repository:[metadata-augmentation](https://github.com/soilwise-he/metadata-augmentation)
-
-<br />
-
-**PyCSW**
-- lead: Paul
-- contributors: MU, Nick
-- repository: [pycsw](https://github.com/soilwise-he/pycsw)
+**Natural Language Querying**
+- lead: Rob & team
+- contributors: Nick
+- repository: [natural-language-querying](https://github.com/soilwise-he/natural-language-querying)
+- not foreseen for 1st iteration ([doc](https://ilvo.sharepoint.com/:x:/s/HESoilWiseProject/EYNTlyXE-TBPmNjm2WHFUxYB-6EgFuCwNIXtsPhPyEzCdg?e=foOMgc))
 
 <br />
 
@@ -64,48 +110,11 @@
 - lead: Paul
 - contributors: MU
 - repository: [MapServer](https://github.com/soilwise-he/MapServer)
+- not foreseen for 1st iteration ([doc](https://ilvo.sharepoint.com/:x:/s/HESoilWiseProject/EYNTlyXE-TBPmNjm2WHFUxYB-6EgFuCwNIXtsPhPyEzCdg?e=foOMgc))
 
 <br />
-
-**Interlinker**
-- lead: Rob & team, Anna
-- contributors: Nick
-- repository:
-  - [link-liveliness-assessment](https://github.com/soilwise-he/link-liveliness-assessment)
-  - [similarity-finder](https://github.com/soilwise-he/similarity-finder)
-   
 <br />
 
-**GIT**
-- lead: Nick
-- contributors: Paul
-- repository: [Soilwise repo](https://github.com/soilwise-he)
-
-<br />
-
-**PostgreSQL**
-- lead: Rob & team
-- contributors: Paul
-- repository: [PostGreSQL](https://github.com/soilwise-he/PostGreSQL)
-
-<br />
-
-**Triple Store**
-- lead: Rob & team, Anna
-- contributors: Nick
-- repository:
-  - [triplestore-virtuoso](https://github.com/soilwise-he/triplestore-virtuoso)
-  - [soilwise-ontology](https://github.com/soilwise-he/soilwise-ontology)
-  - [soil-health-kowledge-graph](https://github.com/soilwise-he/soil-health-knowledge-graph)
-
-<br />
-
-**Large-language-model**
-- lead: Rob & team
-- contributors: Nick
-- repository: [natural-language-querying](https://github.com/soilwise-he/natural-language-querying)
-
-<br />
 
 technical repositories not directly linked to a technical component:  
   - [dashboard](https://github.com/soilwise-he/dashboard): only for interaction with stakeholders, SWR intended to integrate in [EUSO Dashboard](https://esdac.jrc.ec.europa.eu/esdacviewer/euso-dashboard/)
